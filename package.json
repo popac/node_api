@@ -1,5 +1,5 @@
 {
-  "name": "approtector_api",
+  "name": "node-api-boilerplate",
   "version": "0.0.0",
   "private": true,
   "scripts": {
